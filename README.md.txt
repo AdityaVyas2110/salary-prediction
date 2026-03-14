@@ -117,7 +117,7 @@ pip install -r requirements.txt
 
 ---
 
-📈 Model Used
+ Model Used
 
 Linear Regression
 
@@ -127,7 +127,7 @@ Mean Absolute Error (MAE)
 
 ---
 
-🎯 Future Improvements
+ Future Improvements
 
 - Add more machine learning models (Random Forest, Gradient Boosting)
 - Perform exploratory data analysis (EDA)
