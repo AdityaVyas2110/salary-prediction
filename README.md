@@ -68,7 +68,7 @@ salary| Target variable (employee salary)
 
 Clone the repository
 
-git clone https://github.com/yourusername/salary-prediction-ml.git
+git clone https://github.com/AdityaVyas/salary-prediction.git
 
 Navigate to the project directory
 
